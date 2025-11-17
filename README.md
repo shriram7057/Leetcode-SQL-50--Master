@@ -1,6 +1,8 @@
-# LeetCode SQL 50 Challenge
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+</p>
 
-This repository contains all the solutions completed for the **LeetCode SQL 50 Challenge**.
+<h1 align="center">LeetCode SQL 50 Challenge</h1>
 
 ## 🚀 Overview
 
